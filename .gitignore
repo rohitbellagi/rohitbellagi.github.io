@@ -24,7 +24,7 @@ dist-ssr
 *.sw?
 
 # Private resume sources (full version includes phone number) — kept local only
-resume/
+/resume/
 
 # Env files
 .env
